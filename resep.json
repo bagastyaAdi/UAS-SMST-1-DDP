@@ -1,0 +1,15 @@
+[
+  {
+    "namaResep": "babi",
+    "bahanBaku": [
+      {
+        "bahan": "babi",
+        "satuan": "kilo",
+        "jumlah": "1"
+      }
+    ],
+    "langkah": [
+      "masukan babi"
+    ]
+  }
+]
